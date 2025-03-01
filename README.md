@@ -12,7 +12,7 @@ vai demorar um pouco.
 CHECKLIST de conhecimento.
 
 BASICO:  
-❌ Sintaxe  
+✔ Sintaxe  
 ❌ Variaveis e Tipos de variaveis  
 ❌ Funções basicas  
 ❌ Type casting  
