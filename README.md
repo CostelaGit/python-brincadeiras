@@ -11,14 +11,14 @@ vai demorar um pouco.
 
 CHECKLIST de conhecimento.
 
-BASICO:
-❌ Sintaxe
-❌ Variaveis e Tipos de variaveis
-❌ Funções basicas
-❌ Type casting
-❌ Fluxo Condicional
-❌ Fluxo Repetitivo (Loops)
-❌ Exceções 
-❌ Listas, Tuplas e Sets
-❌ Dicionarios
+BASICO:  
+❌ Sintaxe  
+❌ Variaveis e Tipos de variaveis  
+❌ Funções basicas  
+❌ Type casting  
+❌ Fluxo Condicional  
+❌ Fluxo Repetitivo (Loops)  
+❌ Exceções  
+❌ Listas, Tuplas e Sets  
+❌ Dicionarios  
 
