@@ -22,3 +22,5 @@ BASICO:
 ❌ Listas, Tuplas e Sets  
 ❌ Dicionarios  
 
+
+Pastas com exercicios dos assuntos
