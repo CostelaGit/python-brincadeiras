@@ -16,7 +16,7 @@ CHECKLIST de conhecimento.
 BASICO:  
 ✔ Sintaxe  
 ✔ Variaveis e Tipos de variaveis  
-❌ Funções basicas 
+❌ Funções basicas  
 ✔ Type casting  
 ❌ Fluxo Condicional  
 ❌ Fluxo Repetitivo (Loops)  
@@ -27,25 +27,25 @@ BASICO:
 
 INTERMEDIARIO:
 
-❌Funções (Lambdas, decorators, iterators, regular expressions)
-❌Modulos (Builtin e os Customs)
+❌Funções (Lambdas, decorators, iterators, regular expressions)  
+❌Modulos (Builtin e os Customs)  
 ❌Programação Funcional 
 
 
 ""AVANÇADO"":
-❌ OOP ou POO Programação Orientada a Objetos
-❌ Utilização de Frameworks
+❌ OOP ou POO Programação Orientada a Objetos  
+❌ Utilização de Frameworks  
 ❌ Teste e introdução ao TDD
 
 
 # saber da existencia desta parte porém não focalizar 
- - Estrutura de dados e Algoritmos
- Arrays e listas linkadas
- hash tables
- Heaps, stacks e queues
- Binary search trees
- recursion
- sorting algorithms
+ - Estrutura de dados e Algoritmos  
+ Arrays e listas linkadas  
+ hash tables  
+ Heaps, stacks e queues  
+ Binary search trees  
+ recursion  
+ sorting algorithms  
 
  - Modulos conhecidos
  
