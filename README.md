@@ -4,8 +4,8 @@ Olá a todos, Me chamo Luiz Gustavo. atualmente no inicio deste repositorio tenh
 pretendo nele postar coisas que aprendi com python do inicio até bibliotecas que ache interessante.
 
 
-levando em consideração que vou usar este roadmap E Alguns cursos
-https://prnt.sc/6DsQgG3qDncq
+levando em consideração que vou usar este roadmap E Alguns cursos  
+https://prnt.sc/6DsQgG3qDncq  
 https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 
 
