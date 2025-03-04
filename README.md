@@ -32,7 +32,7 @@ INTERMEDIARIO:
 ❌Programação Funcional 
 
 
-""AVANÇADO"":
+""AVANÇADO"":  
 ❌ OOP ou POO Programação Orientada a Objetos  
 ❌ Utilização de Frameworks  
 ❌ Teste e introdução ao TDD
