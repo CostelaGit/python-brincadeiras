@@ -3,3 +3,10 @@ Coloquei meu portfolio aqui
 acho que depois era bom colocar sobre meus projetos
 melhorar um pouco esse portfolio
 tá bem seco...
+
+
+Tipos de dados
+operadores
+estruturas de controle
+estruturas de dados
+funções
